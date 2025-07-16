@@ -24,8 +24,6 @@ Building Android apps using Kotlin.
 🔗 Let's Connect!
 LinkedIn
 
-Blog (if any)
-
 Email: carlos.pulido.rosas@gmail.com
 
 📊 GitHub Stats
