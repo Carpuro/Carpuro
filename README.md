@@ -71,7 +71,6 @@ me.say_hi()
 - ⚡ Advanced SQL optimization and query performance tuning
 - 📱 Android development with Kotlin
 - 🐍 Advanced Python libraries (Pandas, NumPy, Scikit-learn)
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -111,6 +110,62 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🤖 AI Automation Risk in Jalisco</h3>
+<div align="center">
+<a href="https://github.com/Carpuro/ai-automation-risk-jalisco" target="_blank">
+<img src="https://via.placeholder.com/400x200/0d1117/AB63F8?text=AI+Automation+Risk" width="100%" alt="AI Automation Risk"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/Carpuro/ai-automation-risk-jalisco" target="_blank">
+<img src="https://img.shields.io/badge/CODE-Repository-AB63F8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/STATUS-In%20Development-yellow?style=for-the-badge">
+</p>
+<p><strong>🛠️ Tech Stack:</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
+<p align="left">
+📊 <strong>Description:</strong> Analysis of AI and automation risks across different industries in Jalisco, Mexico. Using machine learning models to predict job displacement and identify vulnerable sectors.
+</p>
+</div>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">₿ Crypto Analytics Pipeline</h3>
+<div align="center">
+<a href="https://github.com/Carpuro/crypto-analytics-pipeline" target="_blank">
+<img src="https://via.placeholder.com/400x200/0d1117/AB63F8?text=Crypto+Analytics" width="100%" alt="Crypto Analytics"/>
+</a>
+<br><br>
+<p>
+<a href="https://github.com/Carpuro/crypto-analytics-pipeline" target="_blank">
+<img src="https://img.shields.io/badge/CODE-Repository-AB63F8?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/STATUS-In%20Development-yellow?style=for-the-badge">
+</p>
+<p><strong>🛠️ Tech Stack:</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+<p align="left">
+₿ <strong>Description:</strong> Real-time cryptocurrency data pipeline that collects, processes, and analyzes market data. Includes automated ETL processes and predictive analytics for trading insights.
+</p>
+</div>
+</td>
+</tr>
+</table>
+
 <br>
 
 ## 📊 GitHub Statistics
@@ -135,10 +190,16 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<br>
+## 🎵 Spotify Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/12146870676">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 
 ## 🤝 Let's Connect!
-
 <p align="center">
   <i>I'm always open to interesting conversations and collaboration opportunities!</i>
   <br><br>
@@ -149,10 +210,8 @@ me.say_hi()
     <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
 <!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
