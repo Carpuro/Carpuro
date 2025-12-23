@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=AB63F8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Carlos+Pulido;Data+Analyst+%7C+Automation+Expert+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=AB63F8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Carlos+Pulido;Data+Expert+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -38,19 +38,19 @@
 <img width="40%" align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```python
-class DataAnalyst:
+class DataExpert:
     def __init__(self):
         self.name = "Carlos Pulido"
-        self.role = "Data Analyst & Automation Specialist"
+        self.role = "Engineering, Analysis, Science & Automation Specialist"
         self.location = "Zapopan, Jalisco, MX"
-        self.languages = ["Python", "SQL", "VBA", "Kotlin"]
-        self.tools = ["Power BI", "Excel", "Power Automate"]
+        self.languages = ["Python", "ETL, "SQL", "Pipelines", "Warehouses", "Lakes"]
+        self.tools = ["Git, "PowerApps", "Cloud"]
         self.interests = ["Machine Learning", "AI", "Process Automation"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
-me = DataAnalyst()
+me = DataExpert()
 me.say_hi()
 ```
 
@@ -59,6 +59,7 @@ me.say_hi()
 ### 🎯 What I Do
 
 - 📊 **Data Analysis & Visualization**: Creating interactive Power BI dashboards that drive decision-making
+- 📊 **Data Science**: Developing and mantaining ML pipelines and controls.
 - 🤖 **Process Automation**: Building Python bots and Power Automate flows to eliminate repetitive tasks
 - 🗄️ **Database Management**: Designing and optimizing SQL Server databases and data pipelines
 - 📈 **Business Intelligence**: Transforming raw data into actionable insights for procurement and contract management
@@ -77,17 +78,27 @@ me.say_hi()
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,kotlin,r,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,r,kotlin,js&theme=dark" />
 </p>
 
-### Databases & Data Tools
+### Cloud Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
 </p>
 
 ### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,powershell,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,powershell,windows&theme=dark" />
+</p>
+
+### Databases & Data Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </p>
 
 ### Business Intelligence & Automation
@@ -117,22 +128,6 @@ me.say_hi()
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carpuro&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Carpuro&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<br>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br>
 
 ## 💡 Random Dev Quote
 
