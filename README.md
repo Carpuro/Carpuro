@@ -77,7 +77,7 @@ me.say_hi()
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,r,kotlin,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,terraform,r,kotlin,js&theme=dark" />
 </p>
 
 ### Cloud Platforms
