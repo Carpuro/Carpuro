@@ -58,19 +58,18 @@ me.say_hi()
 
 ### 🎯 What I Do
 
-- 📊 **Data Analysis & Visualization**: Creating interactive Power BI dashboards that drive decision-making
-- 📊 **Data Science**: Developing and mantaining ML pipelines and controls.
-- 🤖 **Process Automation**: Building Python bots and Power Automate flows to eliminate repetitive tasks
-- 🗄️ **Database Management**: Designing and optimizing SQL Server databases and data pipelines
-- 📈 **Business Intelligence**: Transforming raw data into actionable insights for procurement and contract management
-- 🔧 **Excel Mastery**: Advanced VBA macros and complex spreadsheet automation
+- 📊 **Data Analysis & Visualization**: Designing interactive Power BI dashboards that translate complex datasets into clear, decision-ready insights.
+- 📊 **Data Science & ML**: Developing and maintaining machine learning pipelines, including data validation, monitoring, and control frameworks.
+- 🤖 **Process Automation**: Building Python-based automations and Power Automate workflows to eliminate manual, repetitive processes at scale.
+- 🗄️ **Data Engineering & Databases**: Designing, optimizing, and maintaining SQL Server databases and reliable data pipelines for analytics and reporting.
+- 📈 **Business Intelligence**: Transforming raw, multi-source data into actionable insights for procurement, contract management, and executive reporting.
+- 🔧 **Advanced Excel Engineering**: Developing complex VBA automations, advanced formulas, and high-impact spreadsheet solutions.
 
 ### 🌱 Currently Learning
 
 - 🧠 Machine Learning & AI for predictive analytics
 - ⚡ Advanced SQL optimization and query performance tuning
 - 📱 Android development with Kotlin
-- 🐍 Advanced Python libraries (Pandas, NumPy, Scikit-learn)
 <br>
 
 ## 🛠️ Tech Stack
